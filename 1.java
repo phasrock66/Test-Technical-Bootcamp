@@ -21,3 +21,4 @@ String nama, alamat;
         System.out.println("year_in: "+list_school[1] );
         System.out.println("year_out: "+list_school[2] );
         System.out.println("major: "+list_school[3] );
+        System.out.println("Sudah Merried ? "+"false");
